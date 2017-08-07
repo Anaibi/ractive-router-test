@@ -1,6 +1,6 @@
 define([
 	'ractive',
-	'../../ractive-route',
+	'ractive-route',
 	'rvc!../components/search',
 	'rvc!../components/credits'
 ], function (
